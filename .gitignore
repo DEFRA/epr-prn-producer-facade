@@ -360,6 +360,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-src/FacadeAccountCreation/.idea/.idea.FacadeAccountCreation/.idea/misc.xml
-/src/EPR.Producer.PRN.Facade.API/Properties/launchSettings.json
