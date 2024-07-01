@@ -1,0 +1,6 @@
+variables:
+  azureSubscription: 'AZD-RWD-TST1'
+  docker.imageName: 'epraccreditationfacade'
+  acr.azureContainerRegistryName: 'tstrwdinfac1401'
+  acr.repositoryName: 'epraccreditationfacaderepository'
+  serviceName: 'tstrwdwebwa1417'

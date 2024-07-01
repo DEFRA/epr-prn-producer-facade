@@ -1,0 +1,6 @@
+variables:
+  azureSubscription: 'AZR-RWD-PRD1'
+  docker.imageName: 'epraccreditationfacade'
+  acr.azureContainerRegistryName: 'prdrwdinfac1401'
+  acr.repositoryName: 'epraccreditationfacaderepository'
+  serviceName: 'prdrwdwebwa1417'
